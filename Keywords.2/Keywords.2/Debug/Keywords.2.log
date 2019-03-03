@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\csc215\csc215_keywords.2\keywords.2\keywords.2\source.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\csc215\csc215_keywords.2\keywords.2\keywords.2\source.cpp(122): warning C4018: '<': signed/unsigned mismatch
+  Keywords.2.vcxproj -> D:\CSC215\CSC215_Keywords.2\Keywords.2\Debug\Keywords.2.exe
